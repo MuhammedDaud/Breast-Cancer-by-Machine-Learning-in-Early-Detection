@@ -130,6 +130,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This project is for educational and research purposes only. It should not be used as a sole diagnostic tool in clinical settings. Always consult with medical professionals for health-related decisions.
+About the Author
+Muhammad Daud
 
-For questions or suggestions, please open an issue or contact the project maintainer.
+
+How This Project Helps
+This machine learning approach to breast cancer detection:
+
+Demonstrates how AI can support medical diagnostics
+
+Provides a reproducible framework for healthcare ML applications
+
+Highlights important predictive features in tumor analysis
+
+Offers potential for integration with clinical decision support systems
+
+Future Enhancements
+Planned improvements include:
+
+Developing a web-based interface for clinical use
+
+Incorporating more advanced deep learning models
+
+Expanding to other cancer detection applications
+
+Creating API endpoints for integration with medical systems
+
+
+Educational Note: This project is part of my academic journey in computer science and machine learning. While the results are promising, this should not replace professional medical diagnosis. The models are trained on specific data and may not generalize to all clinical scenarios. Always consult healthcare professionals for medical decisions.
