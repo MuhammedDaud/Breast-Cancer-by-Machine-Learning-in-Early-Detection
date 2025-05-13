@@ -130,31 +130,39 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-About the Author
-Muhammad Daud
 
+### About the Author
 
-How This Project Helps
+**Muhammad Daud**
+Information Technology Student | Machine Learning Enthusiast | AI Advocate
+
+---
+
+### How This Project Helps
+
 This machine learning approach to breast cancer detection:
 
-Demonstrates how AI can support medical diagnostics
+* Demonstrates how AI can enhance medical diagnostics.
+* Provides a reproducible framework for healthcare machine learning applications.
+* Highlights crucial predictive features in tumor analysis, enabling more accurate predictions.
+* Offers potential integration with clinical decision support systems to assist healthcare professionals.
 
-Provides a reproducible framework for healthcare ML applications
+---
 
-Highlights important predictive features in tumor analysis
+### Future Enhancements
 
-Offers potential for integration with clinical decision support systems
-
-Future Enhancements
 Planned improvements include:
 
-Developing a web-based interface for clinical use
+* **Web-based interface:** Developing an accessible platform for clinical use.
+* **Advanced deep learning models:** Incorporating cutting-edge techniques to improve accuracy and performance.
+* **Expansion to other cancer types:** Extending the model for detection of other types of cancer.
+* **API endpoints:** Enabling seamless integration with medical systems for real-time diagnostics.
 
-Incorporating more advanced deep learning models
+---
 
-Expanding to other cancer detection applications
+### Educational Note
 
-Creating API endpoints for integration with medical systems
+This project is part of my academic journey in computer science and machine learning. While the results are promising, this model is not intended to replace professional medical diagnoses. The models are trained on specific datasets and may not generalize across all clinical scenarios. Always consult healthcare professionals for medical decisions.
 
 
-Educational Note: This project is part of my academic journey in computer science and machine learning. While the results are promising, this should not replace professional medical diagnosis. The models are trained on specific data and may not generalize to all clinical scenarios. Always consult healthcare professionals for medical decisions.
+
